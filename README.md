@@ -31,4 +31,4 @@ A dynamic and user-friendly web application designed to simplify grocery shoppin
 
 ## Output
 
- ![Food app](food_output/.png)
+ ![ToDo](./food_output.png)
