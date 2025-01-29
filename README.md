@@ -27,3 +27,8 @@ A dynamic and user-friendly web application designed to simplify grocery shoppin
 1. Clone the repository:
    ```bash
    git clone https://github.com/AnandaSreekar/food-store-webapp.git
+
+
+## Output
+
+ ![Food app](food_output/.png)
